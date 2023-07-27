@@ -1,0 +1,55 @@
+h1 {
+  color: #daa520;
+}
+
+.paragrafo {
+  color: #a52a2a;
+}
+
+#menu {
+  margin-left: 100px;
+}
+
+* {
+  padding: 0;
+  font-size: 24px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+}
+
+.titulo {
+  font-size: 30px;
+}
+
+.titulo.laranja {
+  color: #ff8c00;
+}
+
+.titulo.vermelho {
+  color: #ff6347;
+}
+
+p,
+span {
+  font-size: 20px;
+}
+
+.sobre .texto {
+  color: #9370d8;
+}
+
+div > p {
+  color: #1e90ff;
+}
+
+div + p {
+  color: #00bfff;
+}
+
+a[target="_blank"] {
+  color: #565656;
+}
+
+a[href="google.com"] {
+  color: #ffa07a;
+}
